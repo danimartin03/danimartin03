@@ -37,9 +37,10 @@
 
 - Cursando el CFGS de Desarrollo de Aplicaciones Web
 - Buscando mi primer empleo como desarrollador
-- Preparando mi portfolio web
+- Mi portfolio ya está en [danimartin03.github.io](https://danimartin03.github.io)
 
 ## 📫 Contacto
 
+- 🌐 [Mi portfolio](https://danimartin03.github.io)
 - ✉️ dmartinperez03@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-martin-perez-b0a5b6442)
